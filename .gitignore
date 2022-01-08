@@ -57,6 +57,11 @@ coverage.xml
 local_settings.py
 db.sqlite3
 
+#kivy
+kivy_venv/
+__pycache__/
+test/
+
 # Flask stuff:
 instance/
 .webassets-cache
